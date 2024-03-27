@@ -1,4 +1,5 @@
 ### Hi there 👋
+** I'm a back-end developer Java Spring Boot, Python and .Net 8 (+ web and mobile).
 
 <!--
 **jallowdev/jallowdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
